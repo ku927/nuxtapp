@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+# 2022.04.04編集。
+# Udemyを受講中の方へ。v6.0系はバグの温床となり得るため、v6.1系を使用してください。
+# gem 'rails', '~> 6.0.0'
+gem 'rails', '~> 6.1'
